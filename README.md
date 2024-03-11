@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 👨‍💻 All of my projects are available at [https://thayoob.netlify.app/](https://thayoob.github.io/portfolio)
+- 👨‍💻 All of my projects are available at [PORTFOLIO](https://thayoob.netlify.app/)
 
 - 💬 Ask me about **Passionate Full Stack Web Developer with 5 months' hands-on experience in PHP, Laravel, MySQL, and more. BCA student at Shree Devi College. Strong communicator, problem-solver, and remote work enthusiast. Former Software Engineer intern at Cavago Pvt Ltd.**
 
